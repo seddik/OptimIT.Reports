@@ -1,4 +1,4 @@
-CodeReason.Reports
+Optim.Reports
 ==================
 
-Fork of http://wpfreports.codeplex.com because it's not longer developed
+In the hope of developing this amazing library => forked from (jogibear9988/CodeReason.Reports)

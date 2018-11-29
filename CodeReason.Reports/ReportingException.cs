@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodeReason.Reports
+namespace OptimIT.Reports
 {
     /// <summary>
     /// Represents a simple reporting exception

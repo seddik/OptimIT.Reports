@@ -3,7 +3,7 @@
  *
  * License:  This software abides by the LGPL license terms. For further
  *           licensing information please see the top level LICENSE.txt 
- *           file found in the root directory of CodeReason Reports.
+ *           file found in the root directory of OptimIT Reports.
  *
  * Author:   Hans Wolff
  *
@@ -16,7 +16,7 @@ using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Threading;
 
-namespace CodeReason.Reports.Controls
+namespace OptimIT.Reports.Controls
 {
     [StyleTypedProperty(Property = "BusyStyle", StyleTargetType = typeof(Control))]
     public class BusyDecorator : Decorator

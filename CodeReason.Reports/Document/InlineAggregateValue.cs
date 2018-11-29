@@ -3,7 +3,7 @@
  *
  * License:  This software abides by the LGPL license terms. For further
  *           licensing information please see the top level LICENSE.txt 
- *           file found in the root directory of CodeReason Reports.
+ *           file found in the root directory of OptimIT Reports.
  *
  * Authors:  Hans Wolff, Theo Zographos
  *
@@ -12,7 +12,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace CodeReason.Reports.Document
+namespace OptimIT.Reports.Document
 {
     /// <summary>
     /// Computes a single aggregate report value that is to be displayed on the report (e.g. report title)

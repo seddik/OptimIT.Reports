@@ -6,7 +6,7 @@ using System.Windows.Media.Imaging;
 
 using Microsoft.Win32;
 
-namespace CodeReason.Reports.Export
+namespace OptimIT.Reports.Export
 {
     /// <summary>
     /// Export to PNG

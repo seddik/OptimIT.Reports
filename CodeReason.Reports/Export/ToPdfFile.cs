@@ -3,13 +3,13 @@ using System.Windows;
 using System.Windows.Documents;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-
+using OptimIT.Reports.Export;
 using iTextSharp.text; //from http://sourceforge.net/projects/itextsharp/
 using iTextSharp.text.pdf;
 
 using Microsoft.Win32;
 
-namespace CodeReason.Reports.Export
+namespace OptimIT.Reports.Export
 {
     /// <summary>
     /// Export to PDF

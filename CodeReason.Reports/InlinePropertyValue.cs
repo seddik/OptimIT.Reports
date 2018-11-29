@@ -3,16 +3,16 @@
  *
  * License:  This software abides by the LGPL license terms. For further
  *           licensing information please see the top level LICENSE.txt 
- *           file found in the root directory of CodeReason Reports.
+ *           file found in the root directory of OptimIT Reports.
  *
  * Author:   Hans Wolff
  *
  ************************************************************************/
 
 using System.Windows;
-using CodeReason.Reports.Interfaces;
+using OptimIT.Reports.Interfaces;
 
-namespace CodeReason.Reports
+namespace OptimIT.Reports
 {
     /// <summary>
     /// Abstract class for fillable run values

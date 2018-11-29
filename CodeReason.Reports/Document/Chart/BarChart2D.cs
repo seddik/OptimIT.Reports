@@ -3,7 +3,7 @@
  *
  * License:  This software abides by the LGPL license terms. For further
  *           licensing information please see the top level LICENSE.txt 
- *           file found in the root directory of CodeReason Reports.
+ *           file found in the root directory of OptimIT Reports.
  *
  * Author:   Hans Wolff
  *
@@ -15,10 +15,10 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 using System.Windows.Shapes;
-using CodeReason.Reports.Interfaces;
-using CodeReason.Reports.Chart;
+using OptimIT.Reports.Interfaces;
+using OptimIT.Reports.Chart;
 
-namespace CodeReason.Reports.Document.Chart
+namespace OptimIT.Reports.Document.Chart
 {
     /// <summary>
     /// Creates a bar chart as a Canvas

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Documents;
 
-namespace CodeReason.Reports
+namespace OptimIT.Reports
 {
     /// <summary>
     /// Paginator to concat multiple reports

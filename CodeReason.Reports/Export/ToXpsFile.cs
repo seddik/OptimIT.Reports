@@ -4,7 +4,7 @@ using System.Windows.Xps.Packaging;
 
 using Microsoft.Win32;
 
-namespace CodeReason.Reports.Export
+namespace OptimIT.Reports.Export
 {
     /// <summary>
     /// Export to XSP

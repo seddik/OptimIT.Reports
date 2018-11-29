@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Controls;
 using System.Windows.Xps.Packaging;
 
-namespace CodeReason.Reports
+namespace OptimIT.Reports
 {
     public class ReportWorkspace : INotifyPropertyChanged, IDisposable
     {

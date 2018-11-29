@@ -8,8 +8,8 @@
     <ProjectGuid>{104E3C95-4F6C-4A1C-80B9-60B6BD784C51}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CodeReason.Reports.Charts.Visifire</RootNamespace>
-    <AssemblyName>CodeReason.Reports.Charts.Visifire</AssemblyName>
+    <RootNamespace>OptimIT.Reports.Charts.Visifire</RootNamespace>
+    <AssemblyName>OptimIT.Reports.Charts.Visifire</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -81,9 +81,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CodeReason.Reports\CodeReason.Reports.VS2008.csproj">
+    <ProjectReference Include="..\OptimIT.Reports\OptimIT.Reports.VS2008.csproj">
       <Project>{87A8D936-AE11-40AA-8927-A414C2225991}</Project>
-      <Name>CodeReason.Reports.VS2008</Name>
+      <Name>OptimIT.Reports.VS2008</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

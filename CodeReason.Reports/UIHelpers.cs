@@ -12,7 +12,7 @@ using System.Windows.Xps.Serialization;
 
 using Microsoft.Win32.SafeHandles;
 
-namespace CodeReason.Reports
+namespace OptimIT.Reports
 {
     public static class UIHelpers
     {

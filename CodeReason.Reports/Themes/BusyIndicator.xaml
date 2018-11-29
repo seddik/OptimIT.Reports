@@ -1,7 +1,7 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:sys="clr-namespace:System;assembly=mscorlib"
-                    xmlns:controls="clr-namespace:CodeReason.Reports.Controls">
+                    xmlns:controls="clr-namespace:OptimIT.Reports.Controls">
 
   <Style TargetType="{x:Type controls:BusyIndicator}">
       <Setter Property="BusyContent" Value="Please wait..." />

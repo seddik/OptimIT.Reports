@@ -3,8 +3,8 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
     <ResourceDictionary.MergedDictionaries>
-        <ResourceDictionary Source="/CodeReason.Reports;component/Themes/BusyDecorator.xaml"/>
-        <ResourceDictionary Source="/CodeReason.Reports;component/Themes/BusyIndicator.xaml"/>
+        <ResourceDictionary Source="/OptimIT.Reports;component/Themes/BusyDecorator.xaml"/>
+        <ResourceDictionary Source="/OptimIT.Reports;component/Themes/BusyIndicator.xaml"/>
     </ResourceDictionary.MergedDictionaries>
 
 </ResourceDictionary>

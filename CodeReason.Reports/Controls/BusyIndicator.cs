@@ -4,7 +4,7 @@ using System.Windows.Controls;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
-namespace CodeReason.Reports.Controls
+namespace OptimIT.Reports.Controls
 {
     public class BusyIndicator : ContentControl
     {

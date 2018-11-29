@@ -113,9 +113,9 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CodeReason.Reports\CodeReason.Reports.csproj">
+    <ProjectReference Include="..\..\OptimIT.Reports\OptimIT.Reports.csproj">
       <Project>{87a8d936-ae11-40aa-8927-a414c2225991}</Project>
-      <Name>CodeReason.Reports</Name>
+      <Name>OptimIT.Reports</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

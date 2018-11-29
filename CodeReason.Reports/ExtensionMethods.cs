@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Windows.Threading;
 
-namespace CodeReason.Reports
+namespace OptimIT.Reports
 {
     /// <summary>
     /// Extension methods

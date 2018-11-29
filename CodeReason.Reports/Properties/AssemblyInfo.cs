@@ -5,11 +5,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CodeReason.Reports")]
+[assembly: AssemblyTitle("OptimIT.Reports")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hans Wolff")]
-[assembly: AssemblyProduct("CodeReason.Reports")]
+[assembly: AssemblyProduct("OptimIT.Reports")]
 [assembly: AssemblyCopyright("Copyright © 2009 by Hans Wolff")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

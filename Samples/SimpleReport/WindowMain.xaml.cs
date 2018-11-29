@@ -3,7 +3,7 @@
  *
  * License:  This software abides by the LGPL license terms. For further
  *           licensing information please see the top level LICENSE.txt 
- *           file found in the root directory of CodeReason Reports.
+ *           file found in the root directory of OptimIT Reports.
  *
  * Author:   Hans Wolff
  *
@@ -18,7 +18,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Threading;
 using System.Windows.Xps.Packaging;
-using CodeReason.Reports;
+using OptimIT.Reports;
 
 namespace SimpleReport
 {

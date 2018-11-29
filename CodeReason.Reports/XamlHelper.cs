@@ -3,7 +3,7 @@
  *
  * License:  This software abides by the LGPL license terms. For further
  *           licensing information please see the top level LICENSE.txt 
- *           file found in the root directory of CodeReason Reports.
+ *           file found in the root directory of OptimIT Reports.
  *
  * Author:   Hans Wolff
  *
@@ -18,7 +18,7 @@ using System.Xml;
 using System.Windows.Media.Imaging;
 using System.Windows.Media;
 
-namespace CodeReason.Reports
+namespace OptimIT.Reports
 {
     /// <summary>
     /// Helper class for XAML

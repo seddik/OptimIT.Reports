@@ -100,13 +100,13 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CodeReason.Reports.Charts.Visifire\CodeReason.Reports.Charts.Visifire.VS2008.csproj">
+    <ProjectReference Include="..\..\OptimIT.Reports.Charts.Visifire\OptimIT.Reports.Charts.Visifire.VS2008.csproj">
       <Project>{104E3C95-4F6C-4A1C-80B9-60B6BD784C51}</Project>
-      <Name>CodeReason.Reports.Charts.Visifire.VS2008</Name>
+      <Name>OptimIT.Reports.Charts.Visifire.VS2008</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\CodeReason.Reports\CodeReason.Reports.VS2008.csproj">
+    <ProjectReference Include="..\..\OptimIT.Reports\OptimIT.Reports.VS2008.csproj">
       <Project>{87A8D936-AE11-40AA-8927-A414C2225991}</Project>
-      <Name>CodeReason.Reports.VS2008</Name>
+      <Name>OptimIT.Reports.VS2008</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Windows.Controls;
-using CodeReason.Reports.Interfaces;
+using OptimIT.Reports.Interfaces;
 
-namespace CodeReason.Reports.Document
+namespace OptimIT.Reports.Document
 {
     /// <summary>
     /// TextBlock which is visible if document conditional is met

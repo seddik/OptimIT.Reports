@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleReport", "Samples\SimpleReport\SimpleReport.csproj", "{32267BE0-3D2F-4F49-9F28-5B73859A3EBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReason.Reports", "CodeReason.Reports\CodeReason.Reports.csproj", "{87A8D936-AE11-40AA-8927-A414C2225991}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimIT.Reports", "CodeReason.Reports\OptimIT.Reports.csproj", "{87A8D936-AE11-40AA-8927-A414C2225991}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReason.Reports.Charts.Visifire", "CodeReason.Reports.Charts.Visifire\CodeReason.Reports.Charts.Visifire.csproj", "{104E3C95-4F6C-4A1C-80B9-60B6BD784C51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimIT.Reports.Charts.Visifire", "CodeReason.Reports.Charts.Visifire\OptimIT.Reports.Charts.Visifire.csproj", "{104E3C95-4F6C-4A1C-80B9-60B6BD784C51}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartReport", "Samples\ChartReport\ChartReport.csproj", "{05B88C82-531D-431E-AE88-F447292A4A5E}"
 EndProject

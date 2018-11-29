@@ -6,7 +6,7 @@ using System.Windows;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 
-namespace CodeReason.Reports.Export
+namespace OptimIT.Reports.Export
 {
     public static class FrameworkElementExtensions
     {

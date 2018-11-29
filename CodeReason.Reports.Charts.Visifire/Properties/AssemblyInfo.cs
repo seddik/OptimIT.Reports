@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CodeReason.Reports.Charts.Visifire")]
+[assembly: AssemblyTitle("OptimIT.Reports.Charts.Visifire")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hans Wolff")]
-[assembly: AssemblyProduct("CodeReason.Reports.Charts.Visifire")]
+[assembly: AssemblyProduct("OptimIT.Reports.Charts.Visifire")]
 [assembly: AssemblyCopyright("Copyright © 2009 by Hans Wolff")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

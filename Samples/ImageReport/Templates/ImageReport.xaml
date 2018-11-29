@@ -1,7 +1,6 @@
 ﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
               xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
               xmlns:xrd="clr-namespace:CodeReason.Reports.Document;assembly=CodeReason.Reports"
-              xmlns:xrbc="clr-namespace:CodeReason.Reports.Document.Barcode;assembly=CodeReason.Reports"
               PageHeight="29.7cm" PageWidth="21cm" ColumnWidth="21cm">
     <xrd:ReportProperties>
         <xrd:ReportProperties.ReportName>ImageReport</xrd:ReportProperties.ReportName>

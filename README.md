@@ -11,6 +11,9 @@ feel free to request any feature, to ask any question or to contribute ;) .
 
 In order to have a better on app demo I shall removed the actual demos, you can find them in the parent repository.
 
+
 #### Great thank you to : 
 
 In the hope of developing this amazing library => forked from (jogibear9988/OptimIT.Reports)
+
+#### Screenshot

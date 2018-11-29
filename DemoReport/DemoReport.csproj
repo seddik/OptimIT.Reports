@@ -65,7 +65,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Content Include="Templates\ComplexReport.xaml">
+    <Content Include="Templates\DemoReport.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -116,7 +116,7 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CodeReason.Reports\OptimIT.Reports.csproj">
+    <ProjectReference Include="..\OptimIT.Reports\OptimIT.Reports.csproj">
       <Project>{87a8d936-ae11-40aa-8927-a414c2225991}</Project>
       <Name>OptimIT.Reports</Name>
     </ProjectReference>

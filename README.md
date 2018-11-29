@@ -17,3 +17,4 @@ In order to have a better on app demo I shall removed the actual demos, you can 
 In the hope of developing this amazing library => forked from (jogibear9988/OptimIT.Reports)
 
 #### Screenshot
+![alt text](https://raw.githubusercontent.com/seddik/OptimIT.Reports/master/img/shot.png)

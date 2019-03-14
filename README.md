@@ -14,7 +14,7 @@ In order to have a better on app demo, I shall remove the actual demos, you can 
 
 #### Great thank you to : 
 
-In the hope of developing this amazing library => forked from (jogibear9988/OptimIT.Reports)
+In the hope of developing this amazing library => forked from (jogibear9988/CodeReason.Reports)
 
 #### Screenshot
 ![alt text](https://raw.githubusercontent.com/seddik/OptimIT.Reports/master/img/shot.png)
